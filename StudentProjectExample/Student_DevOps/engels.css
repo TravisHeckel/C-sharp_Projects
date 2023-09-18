@@ -1,0 +1,21 @@
+﻿@font-face {
+    font-family: MexicanTequila;
+    font-style: normal;
+    font-weight: normal;
+    src: url(fonts/MexicanTequila.ttf);
+}
+
+.engels-container {
+    font-family: MexicanTequila;
+    text-align: center;
+    background-color: #D2D6DA;
+}
+
+.engels-container-h1 {
+    font-size: 4vw;
+    color: #00418B;
+}
+.engels-container-h2 {
+    font-size: 2vw;
+    color: black;
+}
