@@ -1,0 +1,7 @@
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\MathAndComparisonOperator\MathAndComparisonOperator\bin\Debug\MathAndComparisonOperator.exe.config
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\MathAndComparisonOperator\MathAndComparisonOperator\bin\Debug\MathAndComparisonOperator.exe
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\MathAndComparisonOperator\MathAndComparisonOperator\bin\Debug\MathAndComparisonOperator.pdb
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\MathAndComparisonOperator\MathAndComparisonOperator\obj\Debug\MathAndComparisonOperator.csproj.AssemblyReference.cache
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\MathAndComparisonOperator\MathAndComparisonOperator\obj\Debug\MathAndComparisonOperator.csproj.CoreCompileInputs.cache
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\MathAndComparisonOperator\MathAndComparisonOperator\obj\Debug\MathAndComparisonOperator.exe
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\MathAndComparisonOperator\MathAndComparisonOperator\obj\Debug\MathAndComparisonOperator.pdb
