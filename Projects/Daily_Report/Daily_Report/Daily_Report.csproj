@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{267AAE63-6351-4790-9044-F0A335428526}</ProjectGuid>
+    <ProjectGuid>{DD59DCE9-C75B-4901-B1C4-CF0D4FCF2DFE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DailyReport</RootNamespace>
-    <AssemblyName>DailyReport</AssemblyName>
+    <RootNamespace>Daily_Report</RootNamespace>
+    <AssemblyName>Daily_Report</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

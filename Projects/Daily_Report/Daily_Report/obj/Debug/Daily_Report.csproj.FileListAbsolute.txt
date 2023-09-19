@@ -1,0 +1,7 @@
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\Daily_Report\Daily_Report\bin\Debug\Daily_Report.exe.config
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\Daily_Report\Daily_Report\bin\Debug\Daily_Report.exe
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\Daily_Report\Daily_Report\bin\Debug\Daily_Report.pdb
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\Daily_Report\Daily_Report\obj\Debug\Daily_Report.csproj.AssemblyReference.cache
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\Daily_Report\Daily_Report\obj\Debug\Daily_Report.csproj.CoreCompileInputs.cache
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\Daily_Report\Daily_Report\obj\Debug\Daily_Report.exe
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\Daily_Report\Daily_Report\obj\Debug\Daily_Report.pdb

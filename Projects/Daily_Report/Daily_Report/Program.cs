@@ -33,14 +33,25 @@ namespace DailyReport
             Console.WriteLine("Please answer true or false");
             string answer = Console.ReadLine();//This command will save what the user inputs.
             string result = answer.ToLower();
-            while (result != "true" && result != "false")
+            bool end = false;
+            
+            while (end != true)
             {
-                Console.WriteLine("Please answer true or false");
-                result = Console.ReadLine();
+
+
+                if (result == "true" || result == "false")
+                {
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Please answer true or false");
+                    result = Console.ReadLine();
+                    result.ToLower();
+                }
             }
 
             bool finalAnswer = Convert.ToBoolean(result);
-
             //I used this to confirm the correct answers are given.
 
             //if (finalAnswer == true) 
@@ -74,10 +85,12 @@ namespace DailyReport
                 hoursWorked = Console.ReadLine();//This command will save what the user inputs.
             }
             int hour = Convert.ToInt32(hoursWorked);
-            //Console.WriteLine("Your hours today are  " + hour + '.' + '\n');  //I used this to confirm the correct answers are given.
+            Console.WriteLine("Your hours today are  " + hour + '.' + '\n');  //I used this to confirm the correct answers are given.
 
+            Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
 
             Console.ReadLine(); //This displays all the information including questions.
         }
     }
 }
+
