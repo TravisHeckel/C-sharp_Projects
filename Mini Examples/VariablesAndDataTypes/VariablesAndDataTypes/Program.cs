@@ -43,6 +43,12 @@ namespace VariablesAndDataTypes
             string myName = "Jesse";
 
             Console.WriteLine(questionMark);
+
+            int num1 = 3;
+            int num2 = 5;
+
+            string result = num1 >= num2 ? "wow your right.": "No your wrong.";
+            Console.WriteLine(result);
             Console.ReadLine();
 
         }

@@ -37,9 +37,9 @@ namespace BooleanLogicSubmission
             string number = Console.ReadLine();//this stores the response
             int TICK = Convert.ToInt32(number);//This converts the string to int
 
-            Console.WriteLine("Are you qualified?");//This will suggest the reviewing of their answers to see if htey are qualified.
-            bool QUAL = true;
-            if (AGE > 15 && DUI == false && TICK < 3)//This checks to confirm all 3 requirements are met. or else they say heck no!
+            Console.WriteLine("Are you qualified?");//This will suggest the reviewing of their answers to see if they are qualified.
+            bool QUAL; //sets the value
+            if (AGE > 15 && DUI == false && TICK <= 3)//This checks to confirm all 3 requirements are met. or else they say heck no!
             { 
                 Console.WriteLine("Yes!");
                 QUAL = true;
