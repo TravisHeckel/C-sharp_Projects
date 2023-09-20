@@ -1,0 +1,7 @@
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\BooleanLogicSubmission\BooleanLogicSubmission\bin\Debug\BooleanLogicSubmission.exe.config
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\BooleanLogicSubmission\BooleanLogicSubmission\bin\Debug\BooleanLogicSubmission.exe
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\BooleanLogicSubmission\BooleanLogicSubmission\bin\Debug\BooleanLogicSubmission.pdb
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\BooleanLogicSubmission\BooleanLogicSubmission\obj\Debug\BooleanLogicSubmission.csproj.AssemblyReference.cache
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\BooleanLogicSubmission\BooleanLogicSubmission\obj\Debug\BooleanLogicSubmission.csproj.CoreCompileInputs.cache
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\BooleanLogicSubmission\BooleanLogicSubmission\obj\Debug\BooleanLogicSubmission.exe
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\BooleanLogicSubmission\BooleanLogicSubmission\obj\Debug\BooleanLogicSubmission.pdb

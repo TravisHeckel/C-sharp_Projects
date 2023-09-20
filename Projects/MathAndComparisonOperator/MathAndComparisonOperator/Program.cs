@@ -47,16 +47,7 @@ namespace MathAndComparisonOperator
 
             //-----------------comparison equation ----------------------------------------------------
 
-            bool answer; //created the variable to be used later.
-            
-            if (firstSalary > secondSalary) //if statment changes the bool based on the difference between salaries
-            {
-                answer = true;
-            }
-            else
-            {
-                answer = false;
-            }
+            bool answer = firstSalary > secondSalary;
 
             Console.WriteLine("Does " + firstName + " make more money than " + secondName + "?"); //this prints the question
             Console.WriteLine("\n" + answer); //this prints the answer based on the if statment above
