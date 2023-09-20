@@ -39,7 +39,7 @@ namespace BranchingSubmission
             int length = Convert.ToInt32(Console.ReadLine());//this saves the input and converts it to the proper form
 
 
-            int dimensions = width * height * length; //basic math to calculate total volume of each package.
+            int dimensions = width + height + length; //basic math to calculate total volume of each package.
             //string check2 = (dimensions > 50) ? "Package too large to be shipped via Package Express. Have a good day" : ""; //warning if the package size is to big.
             //Console.WriteLine(check2); //this prints off the ternary statment above.
 
