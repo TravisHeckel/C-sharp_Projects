@@ -52,8 +52,8 @@ namespace BranchingSubmission
 
             }
             //--------------------CALCULATE COSTS----------------------------------------------
-
-            decimal cost = (dimensions * weight) / 100.00m; //This calculates the cost of the product.
+            int dimensions2 = width * height * length;
+            decimal cost = (dimensions2 * weight) / 100.00m; //This calculates the cost of the product.
             Console.WriteLine("Your estimate total for shipping this package is: $" + cost.ToString("0.00")); //this displays the final estimate.
 
 
