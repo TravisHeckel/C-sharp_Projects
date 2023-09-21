@@ -56,53 +56,41 @@ namespace ConsoleApp
             //----------------Choose Opponent--------------------------
             Console.WriteLine("Now choose a number between 1-3 to be matched up to your opponent!");
             int playersNumber = Convert.ToInt32(Console.ReadLine());
-
+            bool optionPicked = false;
             do
             {
                 switch (playersNumber)
                 {
-                    case 62:
-                        Console.WriteLine("You guessed 62. Try again.");
-                        Console.WriteLine("Guess a number?");
-                        playersNumber = Convert.ToInt32(Console.ReadLine());
+                    case 1:
+                        Console.WriteLine("You will be facing a Bulbasaur!");
+                        optionPicked = true;
                         break;
-                    case 29:
-                        Console.WriteLine("You guessed 29. Try again.");
-                        Console.WriteLine("Guess a number?");
-                        playersNumber = Convert.ToInt32(Console.ReadLine());
+                    case 2:
+                        Console.WriteLine("You will be facing a Charmander!");
+                        optionPicked = true;
                         break;
-                    case 55:
-                        Console.WriteLine("You guessed 55. Try again.");
-                        Console.WriteLine("Guess a number?");
-                        playersNumber = Convert.ToInt32(Console.ReadLine());
+                    case 3:
+                        Console.WriteLine("You will be facing a Squirtle!");
+                        optionPicked = true;
                         break;
-                    case 12:
-                        Console.WriteLine("You guessed the number 12. That is correct!");
-                        isGuessed = true;
-                        break;
+
                     default:
-                        Console.WriteLine("You are wrong.");
-                        Console.WriteLine("Guess a number?");
-                        number = Convert.ToInt32(Console.ReadLine());
+                        Console.WriteLine("Sorry what you typed is not an option.");
+                        Console.WriteLine("choose another number?");
+                        playersNumber = Convert.ToInt32(Console.ReadLine());
                         break;
                 }
             }
-            while (!isGuessed);
+            while (optionPicked == false);
 
-
-
-
+            Console.ReadLine();
+            Console.WriteLine("GOOD LUCK AND HAVE FUN BATTLING!");
             //----------------Battle time-----------------------------
 
 
             //---------------Announce Victory--------------------------
 
 
-
-
-
-
-            Console.ReadLine();
         }
     }
 }
