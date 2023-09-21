@@ -16,16 +16,16 @@ namespace ConsoleApp
 
             //----------------starter Pokemon--------------------------
 
-            Console.WriteLine("Please choose a starter pokemon! (type the number of your choice)");
-            Console.WriteLine("1. Bulbasaur \n2. Charmander \n3. Squirtle \n");
-            int playerChoice = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Please choose a starter pokemon! (type the number of your choice)");//question posed to the user.
+            Console.WriteLine("1. Bulbasaur \n2. Charmander \n3. Squirtle \n");//options shared
+            int playerChoice = Convert.ToInt32(Console.ReadLine());//accept user input
 
-            bool choice = false;
-            string playerOne;
+            bool choice = false;//default value given
+            string playerOne;//default value given
 
-            while (choice != true)
+            while (choice != true) //A while loop that will only stop once a player picks the options.
             {
-                if (playerChoice == 1)
+                if (playerChoice == 1) //This gives standard options
                 {
                     playerOne = "Bulbasaur";
                     Console.WriteLine("You chose " + playerOne + " good luck!");
@@ -47,19 +47,19 @@ namespace ConsoleApp
                 }
                 else
                 {
-                    Console.WriteLine("OOPS! looks like you didn't pick one. Please choose again");
+                    Console.WriteLine("OOPS! looks like you didn't pick one. Please choose again"); //This asks them to pick again if a invalid choice is given
                     Console.WriteLine("1. Bulbasaur \n2. Charmander \n3. Squirtle \n");
-                    playerChoice = Convert.ToInt32(Console.ReadLine());
+                    playerChoice = Convert.ToInt32(Console.ReadLine());//accept user input
                 }
             }
 
             //----------------Choose Opponent--------------------------
-            Console.WriteLine("Now choose a number between 1-3 to be matched up to your opponent!");
-            int playersNumber = Convert.ToInt32(Console.ReadLine());
-            bool optionPicked = false;
-            do
+            Console.WriteLine("Now choose a number between 1-3 to be matched up to your opponent!"); //This tells you tp ick a number to find your opponent
+            int playersNumber = Convert.ToInt32(Console.ReadLine());//accept user input
+            bool optionPicked = false;//default value given
+            do //this do will replay thru the switch if invalid answer is given
             {
-                switch (playersNumber)
+                switch (playersNumber) //this details each of the opponent options
                 {
                     case 1:
                         Console.WriteLine("You will be facing a Bulbasaur!");
@@ -84,7 +84,7 @@ namespace ConsoleApp
             while (optionPicked == false);
 
             Console.ReadLine();
-            Console.WriteLine("GOOD LUCK AND HAVE FUN BATTLING!");
+            Console.WriteLine("GOOD LUCK AND HAVE FUN BATTLING!"); // wishes player good luck
             //----------------Battle time-----------------------------
 
 
