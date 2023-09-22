@@ -39,7 +39,7 @@ namespace consoleAppChallenge
                 }
                 check = true; //--------------this statment was added to let to change the check bool after the for loop has completed its iternations. ------FIXED INFINITE LOOP
             }
-            Console.Clear();
+
             //------------------End of Part Two-------------------------------------------------------------------------------------------------------
             //------------------Part Three------------------------------------------------------------------------------------------------------------
             int[] kidsAge = { 20, 18, 12 }; //sets another array associated with the above array
@@ -87,7 +87,7 @@ namespace consoleAppChallenge
 
             //------------------End of Part Three-------------------------------------------------------------------------------------------------------
             //------------------ Part four-------------------------------------------------------------------------------------------------------
-            Console.Clear();
+
             List<string> items = new List<string>() { "burger", "fries", "tacos", "steak", "pizza", "chinese food", "soup", "icecream", "hotdogs", "turkey", "potatoes" };//new list of foods
 
             Console.WriteLine("\n Can you guess what one of the boys favorite food is?"); //poses a question for the user
@@ -113,6 +113,7 @@ namespace consoleAppChallenge
                 clientsChoice = Console.ReadLine();
                 clientsChoice.ToLower();
             }
+
             //This is my first attempt......................................................................
             //while (check3 != true) //our loop to check for matches
             //{
@@ -135,7 +136,7 @@ namespace consoleAppChallenge
 
             //------------------End of Part four------------------------------------------------------------------------------------------------------ -
             //------------------Part five------------------------------------------------------------------------------------------------------ -
-            Console.Clear();
+
             List<string> trap = new List<string>() { "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "one" };//new list
 
             Console.WriteLine("\n Wait.....are you a robot? ANSWER THIS QUESTION: what is nine minus eight?"); //asks user for input
