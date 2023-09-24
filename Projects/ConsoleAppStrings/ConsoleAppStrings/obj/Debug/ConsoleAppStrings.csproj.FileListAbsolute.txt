@@ -1,7 +1,0 @@
-C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\ConsoleAppStrings\ConsoleAppStrings\bin\Debug\ConsoleAppStrings.exe.config
-C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\ConsoleAppStrings\ConsoleAppStrings\bin\Debug\ConsoleAppStrings.exe
-C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\ConsoleAppStrings\ConsoleAppStrings\bin\Debug\ConsoleAppStrings.pdb
-C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\ConsoleAppStrings\ConsoleAppStrings\obj\Debug\ConsoleAppStrings.csproj.AssemblyReference.cache
-C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\ConsoleAppStrings\ConsoleAppStrings\obj\Debug\ConsoleAppStrings.csproj.CoreCompileInputs.cache
-C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\ConsoleAppStrings\ConsoleAppStrings\obj\Debug\ConsoleAppStrings.exe
-C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Projects\ConsoleAppStrings\ConsoleAppStrings\obj\Debug\ConsoleAppStrings.pdb

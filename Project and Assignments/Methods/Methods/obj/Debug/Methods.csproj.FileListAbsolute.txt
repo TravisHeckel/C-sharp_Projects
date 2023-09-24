@@ -1,0 +1,7 @@
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\Methods\Methods\obj\Debug\Methods.pdb
