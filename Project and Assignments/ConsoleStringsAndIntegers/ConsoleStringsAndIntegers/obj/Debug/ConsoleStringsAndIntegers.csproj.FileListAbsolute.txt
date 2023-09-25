@@ -1,0 +1,7 @@
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\ConsoleStringsAndIntegers\ConsoleStringsAndIntegers\bin\Debug\ConsoleStringsAndIntegers.exe.config
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\ConsoleStringsAndIntegers\ConsoleStringsAndIntegers\bin\Debug\ConsoleStringsAndIntegers.exe
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\ConsoleStringsAndIntegers\ConsoleStringsAndIntegers\bin\Debug\ConsoleStringsAndIntegers.pdb
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\ConsoleStringsAndIntegers\ConsoleStringsAndIntegers\obj\Debug\ConsoleStringsAndIntegers.csproj.AssemblyReference.cache
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\ConsoleStringsAndIntegers\ConsoleStringsAndIntegers\obj\Debug\ConsoleStringsAndIntegers.csproj.CoreCompileInputs.cache
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\ConsoleStringsAndIntegers\ConsoleStringsAndIntegers\obj\Debug\ConsoleStringsAndIntegers.exe
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\ConsoleStringsAndIntegers\ConsoleStringsAndIntegers\obj\Debug\ConsoleStringsAndIntegers.pdb

@@ -27,5 +27,6 @@ namespace TwentyOne
             }
         }
         public List<Card> Cards {get; set; }
+      
     }
 }
