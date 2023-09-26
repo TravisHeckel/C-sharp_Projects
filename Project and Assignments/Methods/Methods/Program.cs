@@ -10,8 +10,7 @@ namespace Methods
     {
         static void Main()
         {
-            int i; //this sets a standard variable or us to store our method returns
-            int j = 0; //this judges how many executions have occured in our while loop.
+
             op multi = new op(); //this creates a new instance of the class
 
             Console.WriteLine("Please input a even number to perform a mathematical operation by?"); // asks for user input

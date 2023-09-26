@@ -12,12 +12,22 @@ namespace MethodSubmission
         {
             mathOP multi = new mathOP(); //calls a instance of the class.
 
-            mathOP.MathOperation(10, 6); // set the numbers directly in activating the method
+            Console.WriteLine("Please input a number you wish to use."); //asks for user input
+            int Number1 = Convert.ToInt32(Console.ReadLine()); //records users answer
+            
+            Console.WriteLine("if you wish you can either input another number or press enter"); //asks for user input
+            string optionalNumber = Console.ReadLine(); //records users answer
 
-            multi.Number1 = 45; // set its own variables outside of method, but in that instance
-            multi.Number2 = 30; // set its own variables outside of method, but in that instance
+            if (!string.IsNullOrEmpty(optionalNumber)) //checks answer to see if applicable to what was asked.
+            {
+                int Number2 = Convert.ToInt32(optionalNumber); //converts to int
+                multi.MathOperation(Number1, Number2); //sends off the two parameters
+            }
+            else
+            {
+                multi.MathOperation(Number1); //sends of one parameter and lets the optional one default
+            }
 
-            mathOP.MathOperation(multi.Number1, multi.Number2); // activated the method using both the variables we created in this instance.
            
             Console.ReadLine();
         }

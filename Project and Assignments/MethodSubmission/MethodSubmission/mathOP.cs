@@ -10,17 +10,17 @@ namespace MethodSubmission
     {
 
         
-        public static void MathOperation(int Number1,  int Number2) //This method allows for two parameters
+        public void MathOperation(int Number1,  int Number2 = 2) //This method allows for two parameters
         {
-            int calculate = Number1 - 5; //this runs a calcuation on parameter one
+            int calculate = Number1 - Number2; //this runs a calcuation on parameter one
 
-            Console.WriteLine("you chose the number " + Number2); //this one printed the second variable to the screen
+            Console.WriteLine("the answer is " + calculate); //this one printed the second variable to the screen
 
             return;
 
         }
-        public int Number1 { get; set; } //set the variables that can be accessed by the instance
-        public int Number2 { get; set; }  //set the variables that can be accessed by the instance
+        //public int Number1 { get; set; } //set the variables that can be accessed by the instance
+        //public int optionalNumber { get; set; }  //set the variables that can be accessed by the instance
 
     }
 }
