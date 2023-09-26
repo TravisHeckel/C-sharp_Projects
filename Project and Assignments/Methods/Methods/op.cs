@@ -8,27 +8,21 @@ namespace Methods
 {
     class op
     {
-        public int Number1 { get; set; }
-        public int Number2 = 2;
-        public string numer;
-        public int Multiply()
+        public int Multiply(int Num1) //this first method multiplies the input given.
         {
-           int x = Number1 * Number2;
-            numer = " times ";
+           int x = Num1 * 2;
             return x;
         }
 
-        public int Divide()
+        public int Divide(int Num1) //this first method divides the input given.
         {
-            int x = Number1 / Number2;
-            numer = " divide ";
+            int x = Num1 / 2;
             return x;
         }
 
-        public int Addition()
+        public int Addition(int Num1) //this first method adds the input given.
         {
-            int x = Number1 + Number2;
-            numer = " plus ";
+            int x = Num1 + 2;
             return x;
         }
 
