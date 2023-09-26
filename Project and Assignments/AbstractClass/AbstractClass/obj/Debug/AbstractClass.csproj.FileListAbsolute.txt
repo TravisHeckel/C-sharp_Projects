@@ -1,0 +1,7 @@
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.AssemblyReference.cache
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
