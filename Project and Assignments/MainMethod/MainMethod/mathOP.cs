@@ -22,18 +22,26 @@ namespace MainMethod
         }
 
         public static int MathOperation(string Number3) // this is the third method that checks to make sure it is a string that can be a number and then divides that number.
+ 
         {
-            if (Int32.TryParse(Number3, out int result))
-            {
-                result /= 4;
-                return result; 
-            }
-            else
-            {
-                return 0;
-            }
+         int stringChange = Convert.ToInt32(Number3);
 
-        }
+            stringChange += 4;
+
+            return stringChange;
+
+        //-----------first attempt-------------------------
+        //if (Int32.TryParse(Number3, out int result))
+        //{
+        //    result /= 4;
+        //    return result; 
+        //}
+        //else
+        //{
+        //    return 0;
+        //}
+
+    }
 
     }
 }
