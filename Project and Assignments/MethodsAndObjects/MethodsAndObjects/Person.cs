@@ -8,10 +8,10 @@ namespace MethodsAndObjects
 {
     class Person
     {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
+        public string FirstName { get; set; } //allows us to set the variable
+        public string LastName { get; set; } //allows us to set the variable
 
-        public void SayName()
+        public void SayName() //auto prints a statment when called
         {
             Console.WriteLine("Name: " + FirstName + " " + LastName);
         }
