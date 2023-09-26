@@ -8,7 +8,7 @@ namespace Method_Class
 {
     class mathOP
     {
-        public static void MathOperation(int Number1, int Number2) //This method allows for two parameters
+        public void MathOperation(int Number1, int Number2) //This method allows for two parameters
         {
             int calculate = Number1 - 5; //this runs a calcuation on parameter one
 
