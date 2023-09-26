@@ -12,14 +12,13 @@ namespace MethodSubmission
         {
             mathOP multi = new mathOP(); //calls a instance of the class.
 
-            Console.WriteLine("PLease enter a number."); //this asks for the first number to be typed
-            string Answer1 =Console.ReadLine(); //saves first answer
-            
-            Console.WriteLine("Enter a number only if you want to, otherwise press enter (not necessary)."); //this asks for the second number to be typed.
-            string Answer2= Console.ReadLine(); // saves second answer.
+            mathOP.MathOperation(10, 6); // set the numbers directly in activating the method
 
-            Console.WriteLine("The final answer is " + mathOP.MathOperation(Answer1, Answer2)); //this calls the method and displays the result.
+            multi.Number1 = 45; // set its own variables outside of method, but in that instance
+            multi.Number2 = 30; // set its own variables outside of method, but in that instance
 
+            mathOP.MathOperation(multi.Number1, multi.Number2); // activated the method using both the variables we created in this instance.
+           
             Console.ReadLine();
         }
 

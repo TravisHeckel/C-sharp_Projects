@@ -9,24 +9,18 @@ namespace MethodSubmission
     class mathOP
     {
 
-        public static int MathOperation(string Number1,  string Number2) 
+        
+        public static void MathOperation(int Number1,  int Number2) //This method allows for two parameters
         {
-            int convertedNumber = Convert.ToInt32(Number1);  // this converts it to a int
+            int calculate = Number1 - 5; //this runs a calcuation on parameter one
 
-            if (!string.IsNullOrWhiteSpace(Number2)) //this checks to confirm whether the user gave a correct input
-            {
-                int convertedNumber2 = Convert.ToInt32(Number2); // this converts it to a int
-                int result = convertedNumber + convertedNumber2; //mathematic operation
-                return result;
-            }
-            else //this only returns if the user didn't give an input for Number2
-            {
-                int result = convertedNumber * 2;
-                return result;
-            }
-            
+            Console.WriteLine("you chose the number " + Number2); //this one printed the second variable to the screen
+
+            return;
 
         }
+        public int Number1 { get; set; } //set the variables that can be accessed by the instance
+        public int Number2 { get; set; }  //set the variables that can be accessed by the instance
 
     }
 }
