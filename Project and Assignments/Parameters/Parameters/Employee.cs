@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Parameters
 {
-    class Employee
+    public class Employee <T> //allows for generic variable type
     {
+        public List<T> Things { get; set; } //standard list that we can get and set items in an instance
     }
 }
