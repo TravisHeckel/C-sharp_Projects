@@ -11,9 +11,7 @@ namespace AbstractClass
         public string FirstName { get; set; } //allows us to set the variable
         public string LastName { get; set; } //allows us to set the variable
 
-        public virtual void SayName() //auto prints a statment when called
-        {
-            Console.WriteLine("Name: " + FirstName + " " + LastName);
-        }
+        public abstract void SayName(); //auto prints a statment when called
+       
     }
 }
