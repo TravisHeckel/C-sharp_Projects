@@ -1,0 +1,7 @@
+C:\Users\theck\source\repos\Struct Assign\Struct Assign\bin\Debug\Struct Assign.exe.config
+C:\Users\theck\source\repos\Struct Assign\Struct Assign\bin\Debug\Struct Assign.exe
+C:\Users\theck\source\repos\Struct Assign\Struct Assign\bin\Debug\Struct Assign.pdb
+C:\Users\theck\source\repos\Struct Assign\Struct Assign\obj\Debug\Struct Assign.csproj.AssemblyReference.cache
+C:\Users\theck\source\repos\Struct Assign\Struct Assign\obj\Debug\Struct Assign.csproj.CoreCompileInputs.cache
+C:\Users\theck\source\repos\Struct Assign\Struct Assign\obj\Debug\Struct Assign.exe
+C:\Users\theck\source\repos\Struct Assign\Struct Assign\obj\Debug\Struct Assign.pdb
