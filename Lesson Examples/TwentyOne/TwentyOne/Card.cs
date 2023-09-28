@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    public class Card //this is a type of function
+    public struct Card //this is a type of function
     {
 
         public Suit Suit { get; set; } //this creates a state that we can both get and setup
