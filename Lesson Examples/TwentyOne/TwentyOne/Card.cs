@@ -11,15 +11,20 @@ namespace TwentyOne
 
         public Suit Suit { get; set; } //this creates a state that we can both get and setup
         public Face Face { get; set; } //this creates a state that we can both get and setup
+
+        public override string ToString() //this to string will alwyas make sure to print the face of suit
+        {
+            return string.Format("{0} of {1}", Face, Suit);
+        }
     }
-    public enum Suit
+    public enum Suit //this enum sets the datatype limits
     {
         Clubs,
         Diamonds,
         Hearts,
         Spades
     }
-    public enum Face
+    public enum Face //this enum sets the datatype limits
     {
         Two,
         Three,

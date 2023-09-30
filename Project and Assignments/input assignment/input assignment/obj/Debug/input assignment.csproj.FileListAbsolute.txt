@@ -1,0 +1,7 @@
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\input assignment\input assignment\bin\Debug\input assignment.exe.config
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\input assignment\input assignment\bin\Debug\input assignment.exe
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\input assignment\input assignment\bin\Debug\input assignment.pdb
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\input assignment\input assignment\obj\Debug\input assignment.csproj.AssemblyReference.cache
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\input assignment\input assignment\obj\Debug\input assignment.csproj.CoreCompileInputs.cache
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\input assignment\input assignment\obj\Debug\input assignment.exe
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\input assignment\input assignment\obj\Debug\input assignment.pdb
