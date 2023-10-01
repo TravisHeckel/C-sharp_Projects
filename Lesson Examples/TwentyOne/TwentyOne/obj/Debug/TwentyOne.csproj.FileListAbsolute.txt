@@ -5,3 +5,6 @@ C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Lesson Examp
 C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Lesson Examples\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Lesson Examples\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Lesson Examples\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Lesson Examples\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Lesson Examples\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Lesson Examples\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete

@@ -4,10 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino
 {
     public class Player
     {
+        public Player(string name) : this(name, 100) //this constructor will say assign variable name to name, but default 100 for the balance.
+        {
+        }
         public Player(string name, int beginningBalance) //takes in the name of a player and the starting $$$
         {
             Hand = new List<Card>(); //creates a "hand" or what cards the play is given
@@ -21,6 +24,7 @@ namespace TwentyOne
         public string Name { get; set; } //this creates the value for the name
         public bool IsActivelyPlaying { get; set; } //this creates a bool for whether the play is active or not
         public bool Stay { get; set; } //this creates a bool for whether the player wants to keep going or hold what he has
+        public Guid Id { get; set; } //this sets a universal variable called global unique identifier
 
         public bool Bet(int amount) //this bet method takes in the amount and changes the specific players balance
         {

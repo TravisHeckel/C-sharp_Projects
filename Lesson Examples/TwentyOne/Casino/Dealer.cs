@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace TwentyOne
+namespace Casino
 {
     public class Dealer
     {
@@ -19,6 +19,7 @@ namespace TwentyOne
             Console.WriteLine(Deck.Cards.First().ToString() + "\n"); //this prints out what card is chosen
             using (StreamWriter file = new StreamWriter(@"C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Lesson Examples\Logs\log.txt", true))
             {
+                file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
             }
             Deck.Cards.RemoveAt(0); //this removes that first card from the CARDS list

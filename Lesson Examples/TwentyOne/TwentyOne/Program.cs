@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using Casino;
+using Casino.TwentyOne;
 
 namespace TwentyOne
 {
@@ -11,10 +13,10 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            DateTime dateTime = new DateTime(1995, 5, 23, 8, 32, 45);
+            const string casinoName = "Grand Hotel and Casino";
 
 
-            Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name."); //ask a question
+            Console.WriteLine("Welcome to the {0}. Let's start by telling me your name.", casinoName); //ask a question
             string playerName = Console.ReadLine(); //accepts user input1 and saves it
             Console.WriteLine("And how much money did you bring today?");  //ask a question
             int bank = Convert.ToInt32(Console.ReadLine()); //accepts user input2 and saves it
@@ -23,6 +25,12 @@ namespace TwentyOne
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya") //checks your answer against all the optionss
             {
                 Player player = new Player(playerName, bank); //this creates a new player using the PLAYER data type and saves input1 and input2 inside of it
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Lesson Examples\Logs\log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+
+                }
                 Game game = new TwentyOneGame(); //This creates a new game using the GAME data type that is specifically set for a new instance of TwentyOneGame.
                 game += player; //This adds the player we created earlier to the game variable we created by using the operator +
                 player.IsActivelyPlaying = true; //this sets the value for the PLAYER variable to true,confirming that the palyer is playing.
