@@ -10,7 +10,7 @@ namespace Constructor
     {
             public string race;
             public string weapon;
-            public  Warrior() : this("human") // this sets the race to human if no race is given
+            public  Warrior() : this("human", "spear") // this sets the race to human if no race is given
             {
 
             }

@@ -21,11 +21,22 @@ namespace Casino.TwentyOne
             Dealer.Stay = false; //this marks false as standard for if the dealer wants to "STAY OR HIT"
             Dealer.Deck = new Deck(); //this gives a new deck for the dealer to "deal" from
             Dealer.Deck.Shuffle(); //This mixes up the order of the cards.
-            Console.WriteLine("Place your bet!"); //asks for user input
+            //Console.WriteLine("Place your bet!"); //asks for user input
 
             foreach( Player player in Players) //cycles thru each player in the LIST PLAYERS
             {
-                int bet = Convert.ToInt32(Console.ReadLine()); //this sets bet to equal the value the user inputs
+                bool validAnswer = false;
+                int bet = 0;
+                while (!validAnswer)
+                {
+                    Console.WriteLine("Place your bet!");
+                    validAnswer = int.TryParse(Console.ReadLine(), out bet);
+                    if (!validAnswer) Console.WriteLine("Please enter digits only, no decimals. ");
+                }
+                if (bet < 0)
+                {
+                    throw new FraudException();
+                }
                 bool successfullyBet = player.Bet(bet); //after bet checks to confirm there are enough funds, it will then set successful bet = true
                 if(!successfullyBet) //if its false it will return to before the foreach loop and try again
                 {
