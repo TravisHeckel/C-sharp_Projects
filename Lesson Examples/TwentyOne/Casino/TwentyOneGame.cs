@@ -35,7 +35,7 @@ namespace Casino.TwentyOne
                 }
                 if (bet < 0)
                 {
-                    throw new FraudException();
+                    throw new FraudException("Security! Kick this person out.");
                 }
                 bool successfullyBet = player.Bet(bet); //after bet checks to confirm there are enough funds, it will then set successful bet = true
                 if(!successfullyBet) //if its false it will return to before the foreach loop and try again
