@@ -139,9 +139,9 @@ namespace CarInsurance.Controllers
             int Age = DateTime.Now.Year - insuree.DateOfBirth.Year;
 
             //this calcuates what to the quote for age
-            if (Age < 19){EstimatedQuote += 100m;}
-            else if (Age > 19 && Age < 26) { EstimatedQuote += 50m;}
-            else if (Age > 26){EstimatedQuote += 25m;}
+            if (Age <= 18){EstimatedQuote += 100m;}
+            else if (Age >= 19 && Age <= 25) { EstimatedQuote += 50m;}
+            else if (Age >= 26){EstimatedQuote += 25m;}
             //end of age calculation
 
             //this calculates what to add to the quote for car year

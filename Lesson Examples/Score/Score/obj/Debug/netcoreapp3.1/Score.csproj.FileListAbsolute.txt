@@ -1,0 +1,13 @@
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Lesson Examples\Score\Score\bin\Debug\netcoreapp3.1\Score.exe
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Lesson Examples\Score\Score\bin\Debug\netcoreapp3.1\Score.deps.json
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Lesson Examples\Score\Score\bin\Debug\netcoreapp3.1\Score.runtimeconfig.json
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Lesson Examples\Score\Score\bin\Debug\netcoreapp3.1\Score.runtimeconfig.dev.json
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Lesson Examples\Score\Score\bin\Debug\netcoreapp3.1\Score.dll
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Lesson Examples\Score\Score\bin\Debug\netcoreapp3.1\Score.pdb
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Lesson Examples\Score\Score\obj\Debug\netcoreapp3.1\Score.csproj.AssemblyReference.cache
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Lesson Examples\Score\Score\obj\Debug\netcoreapp3.1\Score.AssemblyInfoInputs.cache
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Lesson Examples\Score\Score\obj\Debug\netcoreapp3.1\Score.AssemblyInfo.cs
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Lesson Examples\Score\Score\obj\Debug\netcoreapp3.1\Score.csproj.CoreCompileInputs.cache
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Lesson Examples\Score\Score\obj\Debug\netcoreapp3.1\Score.dll
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Lesson Examples\Score\Score\obj\Debug\netcoreapp3.1\Score.pdb
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Lesson Examples\Score\Score\obj\Debug\netcoreapp3.1\Score.genruntimeconfig.cache
