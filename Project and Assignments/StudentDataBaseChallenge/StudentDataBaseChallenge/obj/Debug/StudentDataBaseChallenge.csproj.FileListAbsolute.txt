@@ -1,0 +1,12 @@
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\StudentDataBaseChallenge\StudentDataBaseChallenge\bin\Debug\StudentDataBaseChallenge.exe.config
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\StudentDataBaseChallenge\StudentDataBaseChallenge\bin\Debug\StudentDataBaseChallenge.exe
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\StudentDataBaseChallenge\StudentDataBaseChallenge\bin\Debug\StudentDataBaseChallenge.pdb
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\StudentDataBaseChallenge\StudentDataBaseChallenge\bin\Debug\EntityFramework.dll
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\StudentDataBaseChallenge\StudentDataBaseChallenge\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\StudentDataBaseChallenge\StudentDataBaseChallenge\bin\Debug\EntityFramework.xml
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\StudentDataBaseChallenge\StudentDataBaseChallenge\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\StudentDataBaseChallenge\StudentDataBaseChallenge\obj\Debug\StudentDataBaseChallenge.csproj.AssemblyReference.cache
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\StudentDataBaseChallenge\StudentDataBaseChallenge\obj\Debug\StudentDataBaseChallenge.csproj.CoreCompileInputs.cache
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\StudentDataBaseChallenge\StudentDataBaseChallenge\obj\Debug\StudentDataBaseChallenge.csproj.CopyComplete
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\StudentDataBaseChallenge\StudentDataBaseChallenge\obj\Debug\StudentDataBaseChallenge.exe
+C:\Users\theck\Documents\Repositories\GitHub\Basic_C-Sharp_Projects\Project and Assignments\StudentDataBaseChallenge\StudentDataBaseChallenge\obj\Debug\StudentDataBaseChallenge.pdb
