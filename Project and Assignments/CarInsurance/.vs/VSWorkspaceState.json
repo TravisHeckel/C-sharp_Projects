@@ -3,10 +3,8 @@
     "",
     "\\CarInsurance",
     "\\CarInsurance\\Controllers",
-    "\\CarInsurance\\Models",
-    "\\CarInsurance\\Views",
-    "\\CarInsurance\\Views\\Insuree"
+    "\\CarInsurance\\Models"
   ],
-  "SelectedNode": "\\CarInsurance\\Models\\Insuree.cs",
+  "SelectedNode": "\\CarInsurance.sln",
   "PreviewInSolutionExplorer": false
 }

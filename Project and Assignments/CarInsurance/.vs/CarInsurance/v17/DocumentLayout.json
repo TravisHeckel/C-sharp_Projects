@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\theck\\Documents\\Repositories\\GitHub\\Basic_C-Sharp_Projects\\Project and Assignments\\CarInsurance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75761F7E-7327-4E87-A5E6-EC40C13A8B81}|CarInsurance\\CarInsurance.csproj|c:\\users\\theck\\documents\\repositories\\github\\basic_c-sharp_projects\\project and assignments\\carinsurance\\carinsurance\\models\\insuranceentities.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{75761F7E-7327-4E87-A5E6-EC40C13A8B81}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\models\\insuranceentities.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsuranceEntities.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\theck\\Documents\\Repositories\\GitHub\\Basic_C-Sharp_Projects\\Project and Assignments\\CarInsurance\\CarInsurance\\Models\\InsuranceEntities.edmx",
+              "RelativeDocumentMoniker": "CarInsurance\\Models\\InsuranceEntities.edmx",
+              "ToolTip": "C:\\Users\\theck\\Documents\\Repositories\\GitHub\\Basic_C-Sharp_Projects\\Project and Assignments\\CarInsurance\\CarInsurance\\Models\\InsuranceEntities.edmx [Diagram1]*",
+              "RelativeToolTip": "CarInsurance\\Models\\InsuranceEntities.edmx [Diagram1]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-03-14T18:07:26.416Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
